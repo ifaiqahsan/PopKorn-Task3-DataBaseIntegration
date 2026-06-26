@@ -18,8 +18,8 @@ The core data management layer for the PopKorn movie booking system. This reposi
 * **Schema Integrity:** Fully validated models with required fields and relational references.
 
 ### Verification Screenshots
-* [View Seeder Output](docs/screenshots/seeder-output.png)
-* [View MongoDB Collection](docs/screenshots/mongodb-compass.png)
+* [View Seeder Output](docs/screenshots/PopKorn DB Integration.png)
+* [View MongoDB Collection](docs/screenshots/PopKorn MongoDB.png)
 
 ## 🚀 Setup
 1. Clone the repository: `git clone https://github.com/ifaiqahsan/PopKorn-Task3-DatabaseIntegration.git`
